@@ -33,7 +33,7 @@
     "typescript": "~5.8.3",
     "vite": "^7.1.0",
     "vite-plugin-singlefile": "^2.3.0",
-    "vitest": "^3.2.0"
+    "vitest": "^5.0.5"
   },
   "description": "Dinesh Nalla \u2014 3D investigation-room portfolio, Vercel-ready via GitHub.",
   "author": "Dinesh Nalla <nalladinesh53@gmail.com> (https://github.com/nalla-dinesh)",
