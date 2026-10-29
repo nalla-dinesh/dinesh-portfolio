@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Dinesh Nalla — builder profile</title><desc id="desc">Investigation-room style profile card. Red thread connects AIOS, InsiderLens, WalkMate and VALVIX evidence cards.</desc>
+<style>
+ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+ .thread{stroke-dasharray:10 12;animation:thread 7s linear infinite}
+ .pin{animation:pin 2.6s ease-in-out infinite;transform-origin:center}
+ .p2{animation-delay:.5s}.p3{animation-delay:1s}.p4{animation-delay:1.5s}
+ .scan{animation:scan 6s ease-in-out infinite}
+ .led{animation:led 1.8s steps(2,end) infinite}
+ @keyframes thread{to{stroke-dashoffset:-220}}
+ @keyframes pin{0%,100%{opacity:.65}50%{opacity:1}}
+ @keyframes scan{0%,100%{transform:translateY(0)}50%{transform:translateY(238px)}}
+ @keyframes led{50%{opacity:.25}}
+ @media (prefers-reduced-motion:reduce){.thread,.pin,.scan,.led{animation:none}}
+</style>
+<rect width="1200" height="420" rx="18" fill="#0b0e0d"/>
+<g stroke="#1a201d" stroke-width="1" opacity=".7"><path d="M40 0V420"/><path d="M80 0V420"/><path d="M120 0V420"/><path d="M160 0V420"/><path d="M200 0V420"/><path d="M240 0V420"/><path d="M280 0V420"/><path d="M320 0V420"/><path d="M360 0V420"/><path d="M400 0V420"/><path d="M440 0V420"/><path d="M480 0V420"/><path d="M520 0V420"/><path d="M560 0V420"/><path d="M600 0V420"/><path d="M640 0V420"/><path d="M680 0V420"/><path d="M720 0V420"/><path d="M760 0V420"/><path d="M800 0V420"/><path d="M840 0V420"/><path d="M880 0V420"/><path d="M920 0V420"/><path d="M960 0V420"/><path d="M1000 0V420"/><path d="M1040 0V420"/><path d="M1080 0V420"/><path d="M1120 0V420"/><path d="M1160 0V420"/><path d="M0 40H1200"/><path d="M0 80H1200"/><path d="M0 120H1200"/><path d="M0 160H1200"/><path d="M0 200H1200"/><path d="M0 240H1200"/><path d="M0 280H1200"/><path d="M0 320H1200"/><path d="M0 360H1200"/><path d="M0 400H1200"/></g>
+<rect x="24" y="24" width="1152" height="372" rx="12" fill="none" stroke="#9a9f96" stroke-opacity=".35"/>
+<text x="56" y="78" fill="#a3242a" font-size="15" letter-spacing="3">CASE FILE DN-026 / BUILDER PROFILE</text>
+<text x="56" y="150" fill="#ece3cd" font-size="58" font-weight="800" letter-spacing="-2">DINESH NALLA</text>
+<text x="56" y="192" fill="#ece3cd" font-size="21" letter-spacing="1">AGENTIC AI × ANDROID × FULL-STACK</text>
+<text x="56" y="232" fill="#9a9f96" font-size="18">I follow the thread from idea to production.</text>
+<g font-size="14" letter-spacing="1">
+ <rect x="56" y="272" width="132" height="34" rx="4" fill="#121614" stroke="#9a9f96" stroke-opacity=".4"/><text x="72" y="294" fill="#ece3cd">2023 → NOW</text>
+ <rect x="200" y="272" width="190" height="34" rx="4" fill="#121614" stroke="#9a9f96" stroke-opacity=".4"/><text x="216" y="294" fill="#ece3cd">VALVIX / 10+ APPS</text>
+ <rect x="402" y="272" width="178" height="34" rx="4" fill="#121614" stroke="#9a9f96" stroke-opacity=".4"/><text x="418" y="294" fill="#ece3cd">END-TO-END BUILDER</text>
+</g>
+<circle class="led" cx="62" cy="350" r="6" fill="#7fd4c1"/><text x="78" y="355" fill="#9a9f96" font-size="14" letter-spacing="2">STATUS: BUILDING SYSTEMS THAT SHIP</text>
+<g transform="translate(640 50)">
+ <rect width="500" height="310" rx="8" fill="#5a3d28"/>
+ <rect x="14" y="14" width="472" height="282" rx="4" fill="#ece3cd" opacity=".12"/>
+ <path class="thread" d="M90 78 C180 30 270 120 360 70 S470 150 400 220 S220 260 130 210 S40 130 90 78" fill="none" stroke="#c43b32" stroke-width="3"/>
+ <g class="pin"><circle cx="90" cy="78" r="8" fill="#c43b32"/></g><g class="pin p2"><circle cx="360" cy="70" r="8" fill="#c43b32"/></g><g class="pin p3"><circle cx="400" cy="220" r="8" fill="#c43b32"/></g><g class="pin p4"><circle cx="130" cy="210" r="8" fill="#c43b32"/></g>
+ <g transform="translate(48 48) rotate(-4)"><rect width="150" height="86" fill="#ece3cd"/><text x="14" y="30" fill="#1d1a16" font-size="18" font-weight="700">AIOS</text><text x="14" y="54" fill="#5a5142" font-size="12">8 AGENTS / RAG</text><text x="14" y="72" fill="#a3242a" font-size="11">CASE 01</text></g>
+ <g transform="translate(292 40) rotate(3)"><rect width="170" height="92" fill="#ece3cd"/><text x="14" y="30" fill="#1d1a16" font-size="17" font-weight="700">INSIDERLENS</text><text x="14" y="54" fill="#5a5142" font-size="12">EVIDENCE LEDGERS</text><text x="14" y="74" fill="#a3242a" font-size="11">CASE 02</text></g>
+ <g transform="translate(70 176) rotate(2)"><rect width="160" height="88" fill="#ece3cd"/><text x="14" y="30" fill="#1d1a16" font-size="17" font-weight="700">WALKMATE</text><text x="14" y="54" fill="#5a5142" font-size="12">ANDROID SERVICES</text><text x="14" y="74" fill="#a3242a" font-size="11">CASE 03</text></g>
+ <g transform="translate(310 184) rotate(-3)"><rect width="150" height="84" fill="#ece3cd"/><text x="14" y="30" fill="#1d1a16" font-size="18" font-weight="700">VALVIX</text><text x="14" y="54" fill="#5a5142" font-size="12">10+ APPS SHIPPED</text><text x="14" y="72" fill="#1f6f5f" font-size="11">STUDIO / 2025</text></g>
+ <rect class="scan" x="18" y="24" width="464" height="3" fill="#7fd4c1" opacity=".35"/>
+</g>
+<text x="640" y="392" fill="#9a9f96" font-size="12" letter-spacing="2">EVIDENCE BOARD / PUBLIC REPOS + FOUNDER-REPORTED CLIENT WORK</text>
+</svg>
