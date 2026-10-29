@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+<title id="title">Dinesh Nalla journey, 2023 to now</title><desc id="desc">Web development, app development, full-stack development, VALVIX in 2025, and agentic AI now.</desc>
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.thread{stroke-dasharray:10 12;animation:thread 7s linear infinite}.traveler{animation:travel 9s linear infinite}.node{animation:node 3s ease-in-out infinite}.n2{animation-delay:.6s}.n3{animation-delay:1.2s}.n4{animation-delay:1.8s}.n5{animation-delay:2.4s}@keyframes thread{to{stroke-dashoffset:-220}}@keyframes travel{from{transform:translateX(0)}to{transform:translateX(1000px)}}@keyframes node{0%,100%{opacity:.7}50%{opacity:1}}@media (prefers-reduced-motion:reduce){.thread,.traveler,.node{animation:none}}</style>
+<rect width="1200" height="260" rx="16" fill="#0b0e0d"/><rect x="20" y="20" width="1160" height="220" rx="10" fill="none" stroke="#9a9f96" stroke-opacity=".3"/>
+<text x="48" y="62" fill="#e8c85a" font-size="15" letter-spacing="3">ORIGIN FILE / FOLLOW THE RED THREAD</text>
+<path class="thread" d="M100 140H1100" stroke="#c43b32" stroke-width="4" fill="none"/>
+<g class="traveler"><circle cx="100" cy="140" r="8" fill="#e8c85a"/></g>
+<g text-anchor="middle">
+ <g class="node"><circle cx="100" cy="140" r="14" fill="#c43b32"/><text x="100" y="105" fill="#ece3cd" font-size="18" font-weight="700">2023</text><text x="100" y="185" fill="#9a9f96" font-size="14">WEB DEV</text></g>
+ <g class="node n2"><circle cx="350" cy="140" r="14" fill="#c43b32"/><text x="350" y="105" fill="#ece3cd" font-size="18" font-weight="700">SOON AFTER</text><text x="350" y="185" fill="#9a9f96" font-size="14">APP DEV</text></g>
+ <g class="node n3"><circle cx="600" cy="140" r="14" fill="#c43b32"/><text x="600" y="105" fill="#ece3cd" font-size="18" font-weight="700">THEN</text><text x="600" y="185" fill="#9a9f96" font-size="14">FULL-STACK</text></g>
+ <g class="node n4"><circle cx="850" cy="140" r="14" fill="#c43b32"/><text x="850" y="105" fill="#ece3cd" font-size="18" font-weight="700">2025</text><text x="850" y="185" fill="#9a9f96" font-size="14">VALVIX</text></g>
+ <g class="node n5"><circle cx="1100" cy="140" r="14" fill="#7fd4c1"/><text x="1100" y="105" fill="#ece3cd" font-size="18" font-weight="700">NOW</text><text x="1100" y="185" fill="#9a9f96" font-size="14">AGENTIC AI</text></g>
+</g>
+<text x="48" y="222" fill="#9a9f96" font-size="13" letter-spacing="1">EACH STAGE ADDED A LAYER. NONE OF THEM REPLACED THE LAST.</text>
+</svg>
